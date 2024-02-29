@@ -1,7 +1,7 @@
 package programas;
 
 public class Cuenta {
-	private String numero; // Número de la cuenta bancariaaa
+	private String numero; // Número de la cuenta bancaria. Otro comentario.
 	private float saldo; // Saldo de la cuenta bancariaa
 	
 	public Cuenta(String numCta, float saldoCta) {
